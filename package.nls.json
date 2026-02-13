@@ -1,0 +1,9 @@
+{
+  "command.openAudit": "Open Shortcuts Audit",
+  "command.createSnapshot": "Create Snapshot",
+  "command.restoreSnapshot": "Restore Snapshot",
+  "command.showSnapshots": "Show Snapshots",
+  "command.prepareUninstall": "Prepare for Uninstall",
+  "config.notifyOnNewShortcuts": "Show a notification when new shortcuts are detected from installed or updated extensions.",
+  "config.autoBackupOnExit": "Automatically create a backup when VS Code closes. The backup can be restored when you reopen VS Code."
+}

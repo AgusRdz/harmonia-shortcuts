@@ -1,0 +1,12 @@
+services:
+  harmonia-shortcuts:
+    build: .
+    volumes:
+      - .:/app
+      - node_modules:/app/node_modules
+    working_dir: /app
+    stdin_open: true
+    tty: true
+
+volumes:
+  node_modules:

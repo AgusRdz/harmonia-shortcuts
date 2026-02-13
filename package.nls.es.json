@@ -1,0 +1,9 @@
+{
+  "command.openAudit": "Abrir auditoría de atajos",
+  "command.createSnapshot": "Crear instantánea",
+  "command.restoreSnapshot": "Restaurar instantánea",
+  "command.showSnapshots": "Mostrar instantáneas",
+  "command.prepareUninstall": "Preparar para desinstalar",
+  "config.notifyOnNewShortcuts": "Mostrar una notificación cuando se detecten nuevos atajos de extensiones instaladas o actualizadas.",
+  "config.autoBackupOnExit": "Crear automáticamente un respaldo cuando VS Code se cierre. El respaldo se puede restaurar al reabrir VS Code."
+}

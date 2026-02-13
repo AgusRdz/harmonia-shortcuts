@@ -1,0 +1,18 @@
+# Ignore everything
+**
+
+# Keep required extension files
+!package.json
+!package.nls.json
+!package.nls.es.json
+!README.md
+!CHANGELOG.md
+!LICENSE.txt
+!icon.png
+
+# Keep compiled output
+!out/**
+
+# Keep runtime assets
+!l10n/**
+!media/**
